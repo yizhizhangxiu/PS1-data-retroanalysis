@@ -116,10 +116,6 @@ $env:CASJOBS_PW = "你的 CasJobs 密码"
 
 完整的 Python 依赖列表见 [`requirements.txt`](requirements.txt)。
 
-## 许可
-
-本仓库当前**尚未指定许可证**。在复用、分发或接受外部贡献前，建议仓库维护者选择并添加适用的开源许可证。
-
 ## 贡献
 
 欢迎提交问题和改进建议。提交变更时，请避免上传 CasJobs 凭据、下载的原始 FITS、批量图像或其他大体积生成文件；这些内容已通过 `.gitignore` 排除。
