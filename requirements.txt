@@ -1,0 +1,7 @@
+astropy
+astroquery
+mastcasjobs
+Pillow
+numpy
+matplotlib
+requests
